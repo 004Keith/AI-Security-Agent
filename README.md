@@ -22,7 +22,7 @@ This project demonstrates the development of a secure AI Agent system for LLM pr
 
 ## 📌 Author
 - **Keith Warren Mathias**
-- Contact: [keithmathias12@gmail.com]
-- GitHub: [github.com/004Keith]
+- Contact: keithmathias12@gmail.com
+- GitHub: github.com/004Keith
 
 ---
