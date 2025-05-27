@@ -21,8 +21,8 @@ This project demonstrates the development of a secure AI Agent system for LLM pr
    Open in Jupyter or Colab.
 
 ## 📌 Author
-- **Your Name**
-- Contact: [your-email@example.com]
-- GitHub: [github.com/your-profile]
+- **Keith Warren Mathias**
+- Contact: [keithmathias12@gmail.com]
+- GitHub: [github.com/004Keith]
 
 ---
